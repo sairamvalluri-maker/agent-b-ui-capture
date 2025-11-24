@@ -1,0 +1,29 @@
+[
+  {
+    "index": 1,
+    "intent_type": "open_app",
+    "intent_label": "",
+    "url": "https://www.notion.com/",
+    "title": "The AI workspace that works for you. | Notion",
+    "screenshot": "state_001.png",
+    "state_kind": "page"
+  },
+  {
+    "index": 2,
+    "intent_type": "click",
+    "intent_label": "Filter",
+    "url": "https://www.notion.com/",
+    "title": "The AI workspace that works for you. | Notion",
+    "screenshot": "state_002.png",
+    "state_kind": "page"
+  },
+  {
+    "index": 3,
+    "intent_type": "wait_modal",
+    "intent_label": "",
+    "url": "https://www.notion.com/",
+    "title": "The AI workspace that works for you. | Notion",
+    "screenshot": "state_003.png",
+    "state_kind": "page"
+  }
+]
