@@ -181,16 +181,6 @@ After each intent:
 
 ---
 
-# 🎥 Loom Demo
-
-Your Loom should demonstrate:
-- Code walkthrough  
-- Live run  
-- Dataset exploration  
-- Metadata + state_kind explanation  
-
----
-
 # 🙌 Final Notes
 
 This system shows how an autonomous agent can parse natural language, navigate real web UIs, and capture structured state transitions for downstream multi-agent workflows.
